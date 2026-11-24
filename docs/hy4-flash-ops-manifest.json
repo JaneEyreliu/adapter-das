@@ -1,0 +1,9 @@
+{
+  "community_sha": "2544c9ac34be4447bdffa612c37015a3f8da9e84",
+  "files": {
+    "hcu_adapter/hy4_flash_ops/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "hcu_adapter/hy4_flash_ops/hy4_flash_engram.py": "5f17c065f3dc97867950f46bcb452edc6f6883da3b2de819129660b4d977dedc",
+    "hcu_adapter/hy4_flash_ops/hy4_flash_indexpool.py": "990267e8127f0d0792ea9dc58da6974a2edfd94ea4b0a805470f72247131a28a",
+    "hcu_adapter/hy4_flash_ops/hy4_ihc.py": "364138a9c1591de024c8ea22b2e00c176a86d42d169472fa249b9ae0baea632b"
+  }
+}
